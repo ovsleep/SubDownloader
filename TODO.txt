@@ -1,0 +1,14 @@
+manejo de parametros
+	Silent mode
+	archivo
+	directorio
+	idioma(?)
+exact match
+manejo de errores
+registrar sobre archivos
+instalador
+manejo de parametros (idioma)
+multiples idiomas
+seleccion de subtitulos en caso de no encontrar (?)
+Archivo de recurso
+	
