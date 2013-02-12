@@ -45,7 +45,7 @@ namespace SubDownloader
 
             string[] filesPath;
             if (!string.IsNullOrEmpty(directory))
-                filesPath = getFiles(directory, filesPattern, SearchOption.TopDirectoryOnly);
+                filesPath = getFiles(directory, filesPattern, SearchOption.AllDirectories);
             else
                 filesPath = new string[] { filePath };
 
